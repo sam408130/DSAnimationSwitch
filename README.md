@@ -1,6 +1,8 @@
 # DSAnimationSwitch
 
 ###DEMO
+[简书](http://www.jianshu.com/p/241965005ba9)
+
 ![](https://github.com/sam408130/DSAnimationSwitch/blob/master/demo.gif)
 
 
